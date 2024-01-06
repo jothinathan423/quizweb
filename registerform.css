@@ -1,0 +1,64 @@
+#wrapper{ 
+    float:left;
+   width:47%;
+   height:70% ;
+    border: 3px  solid  black;
+    border-radius:15px;
+    border-top-style: no ;
+   
+
+}
+p{color:rgb(225, 255, 0);
+padding :10px;}
+#wrapper{
+background-color:black;
+margin:0 auto;
+}
+#head{text-align:center;}
+#body{text-align:center;}
+#roll{margin-left:-85px;}
+#pass{margin-left:-100px;}
+
+
+
+#wrap{  
+float: right;
+   width:50%;
+   height:70%;
+    border: 3px  solid rgb(0, 0, 0) ;
+    border-radius:15px;
+    background-position:center  ;
+    background-size: cover;
+    background-image: url("istockphoto-1371339413-170667a.webp");
+    
+}
+h1{ color:black;
+    
+    text-align:center}
+
+h2{ color:white;
+    text-align:center;}
+#div{float:center ;
+    width:99%;
+    height:70% ;
+    border: 3px solid  black;
+    border-radius:15px;
+    background-color: black;
+    }
+
+#future,#log{color:rgb(225, 255, 0);
+
+}
+#signin{color:black;
+
+}
+#sign-in:hover{
+    background-color:yellow;
+   
+}
+#sign-in:active{
+    color:red;
+    padding-top: 1px;
+}
+
+ 

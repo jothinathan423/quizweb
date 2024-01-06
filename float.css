@@ -1,0 +1,11 @@
+body{
+    width:960;
+    margin:0 auto;
+}
+.service{
+    border: 0.1rem solid black;
+    width:30%;
+    float:left;
+    margin-right :2.5%;
+    text-align:center;
+}
